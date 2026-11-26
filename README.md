@@ -3,13 +3,11 @@
 
 ## 👥 Integrantes
 
-- Integrante 1 — Matrícula
-- Integrante 2 — Matrícula
-- Integrante 3 — Matrícula
-- Integrante 4 — Matrícula (opcional)
+- Arthur Tavares Servita — 20250041125
+- Lucas Diego Ramos de Oliveira Cuellar — 20240016183
 
 **Professor:** Jerffeson Gomes Dutra  
-**Disciplina:** Programação Orientada a Objetos
+**Disciplina:** Linguagem de Programação II
 
 ## 📌 1. Sobre o projeto
 
@@ -23,7 +21,6 @@ O projeto utiliza conceitos de Programação Orientada a Objetos, como encapsula
 
 - [ ] Cadastro, consulta, alteração e remoção de jogadores.
 - [ ] Cadastro e gerenciamento de equipes.
-- [ ] Cadastro de jogos eletrônicos.
 - [ ] Criação e gerenciamento de torneios.
 - [ ] Inscrição de jogadores e equipes.
 - [ ] Validação de requisitos de inscrição.
@@ -147,7 +144,7 @@ O diagrama apresentará as classes, atributos, métodos, relações de herança,
 
 ## 🛠️ 11. Tecnologias
 
-- Linguagem: [Preencher]
+- Linguagem: Java
 - Paradigma: Programação Orientada a Objetos.
 - Persistência: Arquivos.
 - Controle de versão: Git e GitHub.
